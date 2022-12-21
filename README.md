@@ -6,7 +6,7 @@
 
 ## Funcionalidades
 - Cadastro de usuário
-- Confirmação via email
+- Confirmação via email (necessario gerar e configurar nova Key no sendgrid)
 - Tratamento de erros
 - CRUD
 
